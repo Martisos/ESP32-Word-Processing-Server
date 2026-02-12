@@ -281,7 +281,7 @@ ESP32-Word-Processing-Server/
 
 ---
 
-# ⚠ Note: 
+# ⚠ Note
 ESP32 uses a 16 KB ArduinoJson buffer, so JSON must fit within this size.
 
 
