@@ -260,14 +260,17 @@ whisper.load_model("large")
 ESP32-Word-Processing-Server/
 │
 ├── flask_app/
-│   └── app.py
+│   ├── app.py
+│   └── static/
+│       └── styles.css
 │
 ├── esp32_firmware/
-│   └── main.ino
+│   └── sketch.ino
 │
 ├── uploads/
 ├── words.json
 └── README.md
+
 ```
 
 ---
