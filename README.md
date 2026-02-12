@@ -281,6 +281,12 @@ ESP32-Word-Processing-Server/
 
 ---
 
+# ⚠ Note: 
+ESP32 uses a 16 KB ArduinoJson buffer, so JSON must fit within this size.
+
+
+---
+
 # 🔒 Local-Only Design
 
 This system works entirely in local network:
